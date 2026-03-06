@@ -1,0 +1,6 @@
+- top down game
+- shoot ice spikes at enemies to freeze them
+- enemies shoot fire balls you have to dodge
+- ice spikes freeze enemies but don't kill them
+- press space to burst all frozen enemies (has cooldown of 5s)
+- points awarded based on number of enemies bursted at once
